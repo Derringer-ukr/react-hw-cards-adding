@@ -1,0 +1,22 @@
+{
+    "emmet.excludeLanguages": [],
+
+    "emmet.preferences": {
+
+    },
+    "emmet.syntaxProfiles": {
+
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
+
+// {
+//    "emmet.includeLanguages": {
+//       "javascript": "javascriptreact"
+// },
+// "emmet.preferences": {
+
+// }
+// }
